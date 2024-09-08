@@ -1,0 +1,8 @@
+module:GNIOT_CRS_POS_PROJECT
+com.gniot.crs.bean
+com.gniot.crs.business
+com.gniot.crs.client
+com.gniot.crs.constant
+com.gniot.crs.dao
+com.gniot.crs.exception
+com.gniot.crs.utils
